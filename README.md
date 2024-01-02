@@ -16,3 +16,9 @@ demo also shows how to use flutter_syntax_view plugins
 
 demo also shows how to exit from flutter app
 
+demo shows how to switch from dark/light mode
+
+demo shows using flutter_syntax_view how to switch from dark/light mode
+
+
+
